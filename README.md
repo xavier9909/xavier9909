@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sm798207@gmail.com**
 
+
+---
+
+![xavier's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xavier9909&hide_border=true&theme=redical)
+
+---
+
 - ⚡ Fun fact **Foodie and Adventure loving**
 
 <h3 align="left">Connect with me:</h3>
